@@ -1,3 +1,12 @@
+# zobitronic
+
+Modified emulator to run my text adventure from 1984 slowly enough.
+
+Added the game.
+
+@htoyryla 25 May 2020
+
+
 
 # ANSI CP/M Emulator and disk image tool
 
