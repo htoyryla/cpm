@@ -6,7 +6,7 @@ Added the game.
 
 Instructions:
 
-``´
+```
 # build the emulator
 
 make clean
@@ -15,7 +15,7 @@ make
 # run the emulator & game
 
 ./cpm zob 
-´´´
+```
 
 
 @htoyryla 25 May 2020
