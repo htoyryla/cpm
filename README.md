@@ -6,7 +6,7 @@ Added the game.
 
 Instructions:
 
-#build the emulator
+# build the emulator
 
 make clean
 make
