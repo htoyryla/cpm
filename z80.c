@@ -9,6 +9,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include "defs.h"
+#include <time.h>
+#include "unistd.h"
 
 int nobdos;
 int strace;
@@ -187,6 +189,9 @@ z80_emulator(z80info *z80, int count)
 
 	/* main loop  --  all "goto"s eventually end up here */
 infloop:
+        /* wait, to emulate slow clock speed */
+        usleep(1) ;
+
 
 	/* only execute "count" instructions at one whack */
 	if (count-- <= 0)
