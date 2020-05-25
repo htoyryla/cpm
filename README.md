@@ -17,6 +17,96 @@ make
 ./cpm zob 
 ```
 
+## sample output
+
+```
+The zoBITRONics Inc, an adventure by
+         Hannu Toyryla  (c) 1984
+
+
+ Welcome to be the one to save the zoBITRONics Inc from ruin.  A
+ new zobitronic device is being developed and must be ready on
+ monday morning. You are a consult arriving to get things right,
+ but  you might not get much assistance.  So you must explore on
+ your own...
+
+ To be allowed in, our security demands that you give your name
+ now. Your name, please ? Hannu
+
+ Nice to meet you, Hannu.
+ This is the entrance to the zoBITRONics Inc Research Center. To
+ the east, opposite the entrance, you see a vast, well tended lawn
+ extending up the hill.
+
+>w
+ Here is a broad staircase leading up and a narrower one down. A
+ corridor leads east and to the west comes to a stop near an
+ information desk. To the south is a hall.
+ The clock on the wall reads   FRIDAY 16:30.
+
+>w
+ This is a small room containing an information desk and telephone
+ exchange. To the east you can see the staircase.
+ There is a telephone here.
+ There is an envelope here.
+
+>e
+ Staircase, Ground Floor
+ The clock on the wall reads   FRIDAY 16:32.
+
+>time
+ The clock on the wall reads   FRIDAY 16:53.
+
+>help
+ You should try to get along by your own, but you can try the
+ following verbs that I understand :  go, get, take, look, examine,
+ inventory, i, l, drop, open, close, put, sleep, cut, read, press,
+ push, type, hit, kick, kill, attack, say, damn, give, bribe, talk,
+ save, wait, connect, test, time, dream, answer, help, set, sing,
+ pray, identify, yell, cry, drink, touch, score, quit.
+
+```
+
+```
+>l
+ This room is used for final testing of equipment designed at
+ zoBITRONics Inc. You can see huge piles of test equipment as well
+ as a few zobitronic devices ready for testing. The place is quite
+ a mess and it's evident that software people have been here
+ lately. There are doors to the west and the east.
+ There is a transparent container here.
+ There is a smultron in the transparent container.
+ There is a spare fuse in the transparent container.
+ There is a zobitronic whoozer here.
+
+
+>e
+ This is the hardware laboratory, where the world's most advanced
+ zobitronic research is being carried out. The desks are empty and
+ clean, and no trace of what is being designed is to be seen.
+ There are doors to the south, southwest and west.
+ There is a  EPROM eraser here.
+
+
+>s
+ Short Corridor
+
+>l
+ You are in a short corridor running east and west. To the east
+ is a huge door with text :  'NO ADMITTANCE !'.
+
+
+>e
+ This is a quite big room with huge shelves on the walls. There
+ is a door to the west with a sign 'NO IMPEDANCE'. There is a
+ steel door to the east.
+ There is a zobitronic analyzer here.
+
+```
+
+
+
+
 
 @htoyryla 25 May 2020
 
