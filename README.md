@@ -6,18 +6,16 @@ Added the game.
 
 Instructions:
 
+``´
 # build the emulator
 
 make clean
 make
 
-# run the emulator
+# run the emulator & game
 
-./cpm
-
-# run the game
-
->zob
+./cpm zob 
+´´´
 
 
 @htoyryla 25 May 2020
