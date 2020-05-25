@@ -4,6 +4,22 @@ Modified emulator to run my text adventure from 1984 slowly enough.
 
 Added the game.
 
+Instructions:
+
+#build the emulator
+
+make clean
+make
+
+# run the emulator
+
+./cpm
+
+# run the game
+
+>zob
+
+
 @htoyryla 25 May 2020
 
 
