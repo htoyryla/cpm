@@ -19,7 +19,7 @@ make
 
 to exit game type bye
 
-There is not working save feature. The original game save makes a save file but there is no way to resume at the moment.
+There is no working save feature. The original game save makes a save file but there is no way to resume at the moment.
 
 
 
